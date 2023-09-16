@@ -1,0 +1,9 @@
+{
+    "save_game_history_to_db": true,
+    "save_game_history_to_xml": false,
+    "one_player_mode": false,
+    "two_players_mode": false,
+    "ai_mode": true,
+    "ip_address": "192.168.17.247",
+    "port": "50000"
+}

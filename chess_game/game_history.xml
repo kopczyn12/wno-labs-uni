@@ -1,0 +1,333 @@
+<?xml version="1.0" ?>
+<game_histories>
+  
+  
+  <game_history id="0">
+    
+    
+    <row id="0">
+      
+      
+      <piece id="0" color="black">R</piece>
+      
+      
+      <piece id="1" color="black">P</piece>
+      
+      
+      <piece id="2"/>
+      
+      
+      <piece id="3"/>
+      
+      
+      <piece id="4"/>
+      
+      
+      <piece id="5"/>
+      
+      
+      <piece id="6" color="white">p</piece>
+      
+      
+      <piece id="7" color="white">r</piece>
+      
+    
+    </row>
+    
+    
+    <row id="1">
+      
+      
+      <piece id="0" color="black">N</piece>
+      
+      
+      <piece id="1" color="black">P</piece>
+      
+      
+      <piece id="2"/>
+      
+      
+      <piece id="3"/>
+      
+      
+      <piece id="4"/>
+      
+      
+      <piece id="5"/>
+      
+      
+      <piece id="6" color="white">p</piece>
+      
+      
+      <piece id="7" color="white">n</piece>
+      
+    
+    </row>
+    
+    
+    <row id="2">
+      
+      
+      <piece id="0" color="black">B</piece>
+      
+      
+      <piece id="1" color="black">P</piece>
+      
+      
+      <piece id="2"/>
+      
+      
+      <piece id="3"/>
+      
+      
+      <piece id="4"/>
+      
+      
+      <piece id="5"/>
+      
+      
+      <piece id="6" color="white">p</piece>
+      
+      
+      <piece id="7" color="white">b</piece>
+      
+    
+    </row>
+    
+    
+    <row id="3">
+      
+      
+      <piece id="0" color="black">Q</piece>
+      
+      
+      <piece id="1" color="black">P</piece>
+      
+      
+      <piece id="2"/>
+      
+      
+      <piece id="3"/>
+      
+      
+      <piece id="4"/>
+      
+      
+      <piece id="5"/>
+      
+      
+      <piece id="6" color="white">p</piece>
+      
+      
+      <piece id="7" color="white">q</piece>
+      
+    
+    </row>
+    
+    
+    <row id="4">
+      
+      
+      <piece id="0" color="black">K</piece>
+      
+      
+      <piece id="1" color="black">P</piece>
+      
+      
+      <piece id="2"/>
+      
+      
+      <piece id="3"/>
+      
+      
+      <piece id="4" color="white">p</piece>
+      
+      
+      <piece id="5"/>
+      
+      
+      <piece id="6"/>
+      
+      
+      <piece id="7" color="white">k</piece>
+      
+    
+    </row>
+    
+    
+    <row id="5">
+      
+      
+      <piece id="0" color="black">B</piece>
+      
+      
+      <piece id="1"/>
+      
+      
+      <piece id="2"/>
+      
+      
+      <piece id="3" color="black">P</piece>
+      
+      
+      <piece id="4"/>
+      
+      
+      <piece id="5"/>
+      
+      
+      <piece id="6" color="white">p</piece>
+      
+      
+      <piece id="7" color="white">b</piece>
+      
+    
+    </row>
+    
+    
+    <row id="6">
+      
+      
+      <piece id="0" color="black">N</piece>
+      
+      
+      <piece id="1" color="black">P</piece>
+      
+      
+      <piece id="2"/>
+      
+      
+      <piece id="3"/>
+      
+      
+      <piece id="4"/>
+      
+      
+      <piece id="5"/>
+      
+      
+      <piece id="6" color="white">p</piece>
+      
+      
+      <piece id="7" color="white">n</piece>
+      
+    
+    </row>
+    
+    
+    <row id="7">
+      
+      
+      <piece id="0" color="black">R</piece>
+      
+      
+      <piece id="1" color="black">P</piece>
+      
+      
+      <piece id="2"/>
+      
+      
+      <piece id="3"/>
+      
+      
+      <piece id="4"/>
+      
+      
+      <piece id="5"/>
+      
+      
+      <piece id="6" color="white">p</piece>
+      
+      
+      <piece id="7" color="white">r</piece>
+      
+    
+    </row>
+    
+  
+  </game_history>
+  
+
+  <game_history id="1">
+    <row id="0">
+      <piece id="0" color="black">R</piece>
+      <piece id="1" color="black">P</piece>
+      <piece id="2"/>
+      <piece id="3"/>
+      <piece id="4"/>
+      <piece id="5"/>
+      <piece id="6" color="white">p</piece>
+      <piece id="7" color="white">r</piece>
+    </row>
+    <row id="1">
+      <piece id="0" color="black">N</piece>
+      <piece id="1" color="black">P</piece>
+      <piece id="2"/>
+      <piece id="3"/>
+      <piece id="4"/>
+      <piece id="5"/>
+      <piece id="6" color="white">p</piece>
+      <piece id="7"/>
+    </row>
+    <row id="2">
+      <piece id="0" color="black">B</piece>
+      <piece id="1" color="black">P</piece>
+      <piece id="2"/>
+      <piece id="3"/>
+      <piece id="4"/>
+      <piece id="5" color="white">n</piece>
+      <piece id="6" color="white">p</piece>
+      <piece id="7" color="white">b</piece>
+    </row>
+    <row id="3">
+      <piece id="0" color="black">Q</piece>
+      <piece id="1" color="black">P</piece>
+      <piece id="2"/>
+      <piece id="3"/>
+      <piece id="4"/>
+      <piece id="5"/>
+      <piece id="6" color="white">p</piece>
+      <piece id="7" color="white">q</piece>
+    </row>
+    <row id="4">
+      <piece id="0" color="black">K</piece>
+      <piece id="1" color="black">P</piece>
+      <piece id="2"/>
+      <piece id="3"/>
+      <piece id="4" color="white">p</piece>
+      <piece id="5"/>
+      <piece id="6"/>
+      <piece id="7" color="white">k</piece>
+    </row>
+    <row id="5">
+      <piece id="0" color="black">B</piece>
+      <piece id="1"/>
+      <piece id="2"/>
+      <piece id="3" color="black">P</piece>
+      <piece id="4"/>
+      <piece id="5"/>
+      <piece id="6" color="white">p</piece>
+      <piece id="7" color="white">b</piece>
+    </row>
+    <row id="6">
+      <piece id="0" color="black">N</piece>
+      <piece id="1" color="black">P</piece>
+      <piece id="2"/>
+      <piece id="3"/>
+      <piece id="4"/>
+      <piece id="5"/>
+      <piece id="6" color="white">p</piece>
+      <piece id="7" color="white">n</piece>
+    </row>
+    <row id="7">
+      <piece id="0" color="black">R</piece>
+      <piece id="1" color="black">P</piece>
+      <piece id="2"/>
+      <piece id="3"/>
+      <piece id="4"/>
+      <piece id="5"/>
+      <piece id="6" color="white">p</piece>
+      <piece id="7" color="white">r</piece>
+    </row>
+  </game_history>
+</game_histories>

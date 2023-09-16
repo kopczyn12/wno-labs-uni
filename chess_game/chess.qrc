@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>chess_img/white_b.png</file>
+        <file>chess_img/white_k.png</file>
+        <file>chess_img/white_n.png</file>
+        <file>chess_img/white_p.png</file>
+        <file>chess_img/white_q.png</file>
+        <file>chess_img/white_r.png</file>
+        <file>chess_img/black_B.png</file>
+        <file>chess_img/black_K.png</file>
+        <file>chess_img/black_N.png</file>
+        <file>chess_img/black_P.png</file>
+        <file>chess_img/black_Q.png</file>
+        <file>chess_img/black_R.png</file>
+    </qresource>
+</RCC>
